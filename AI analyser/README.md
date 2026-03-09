@@ -117,4 +117,3 @@ AI analyser
 
 ---
 
-If you want, I can also give you a **much better GitHub README (with badges, screenshots, and architecture diagram)** so your **assessment submission looks very professional.**
